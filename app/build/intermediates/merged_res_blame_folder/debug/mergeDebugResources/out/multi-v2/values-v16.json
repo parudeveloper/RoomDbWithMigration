@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.roomdbwithmigration.app-mergeDebugResources-38:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\navya\\.gradle\\caches\\8.10.2\\transforms\\765cd2e1c1a4f087f45cd633c3bea598\\transformed\\appcompat-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

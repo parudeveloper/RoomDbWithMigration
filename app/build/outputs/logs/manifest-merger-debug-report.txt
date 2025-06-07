@@ -1,0 +1,360 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:8.8.0-alpha09] C:\Users\navya\.gradle\caches\8.10.2\transforms\b9e675583725a11a37dd28ed66faa42c\transformed\viewbinding-8.8.0-alpha09\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\dac313bea1577f6709dbb127dd1e7a52\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\544a63a21dffab6c55a874c97be2ae60\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\6eb6a49b5062ae8d49d95dea81e6417f\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\765cd2e1c1a4f087f45cd633c3bea598\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.56.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\3750efe794589afe11dd63617d1e3d8d\transformed\hilt-android-2.56.1\AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\f9df0c6284fec7a6eac6e571346cae6d\transformed\glide-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\aa1e0a2e88d9126cae21d07ef87a4240\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\navya\.gradle\caches\8.10.2\transforms\bda388fece2a93f1f9f3eac764d6635c\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\cac3c08a993a1a3bf98ec3220fd7cdbf\transformed\activity-1.10.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\3809c7cb83006f434f10a1b80bfdf98c\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c43ba81d43a68011bf5178b496c0d5f1\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\8fd664554a9fd5704c5435e62dce7f5a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\ccdbba5acbb137cfe94ad9ae1751da40\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\a9b593db6fb00a4fd876fddeb5abf606\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\aaf0e48e74c922bd5c222378cd704dfa\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\d29fb4bd394e8978d52abfacf0d85991\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\805f868f04df977885aa6154a4911d15\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\bbb5d5401d265eb449212a40963d0a86\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\08973da884136727ef2d666f3b985d87\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\d922b27e3c4f32b3b3e19e01e1f332be\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\17ffb8945f850d1dc2527fedebc604dd\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\f0c12750c06f4d313ee2e5b2ff7ddb55\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\97a9c8ec731f310a5bb93a23ada57bbf\transformed\lifecycle-livedata-core-ktx-2.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\2a39cf22c2a30ea04616c55bb8ac8416\transformed\lifecycle-livedata-2.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\ee72196a4927b561e1e1c8eac05ea36f\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c4e06f0bd3cf612df4453c5f08cef4c0\transformed\savedstate-1.3.0\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\603f409a17dcd393a97076620eb6e9f7\transformed\savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\54ccc2f7e770902e2cf2f9a4afa29630\transformed\lifecycle-viewmodel-2.9.0\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\5f998fb57a79dbdea711fea4370e20c5\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\bc5ae70898dac1ff84ca5c7bbac5c6d3\transformed\lifecycle-livedata-core-2.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\088de1e343c45541b46e2b73966800b6\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\605404d9cda8cd31c07a89a30e59dbcc\transformed\lifecycle-viewmodel-ktx-2.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\6cb95a1daeed007ad1fd1568e7e5772a\transformed\lifecycle-viewmodel-savedstate-2.9.0\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\5746f303a7c3e0244572ebb98a399e43\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\ba8880a03cdae42d3f1a3e051ebe6194\transformed\core-ktx-1.16.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime-android:2.7.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\685bbfb0eaa3b3cd82e54e49e37b2c5c\transformed\room-runtime-release\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.7.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\fd8107fd2ce953671d6940d29ccb23ac\transformed\room-ktx-2.7.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\280095b19d8456657d6bcd05e224215e\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\1bdefd0598967387184be8eb1a346bb9\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\c8f1425fad406dbd4779202875b4b94d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\915d41028770ae3499c57b2af9255ff5\transformed\sqlite-framework-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-android:2.5.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\769986bc06f37720447dedc62d6dc153\transformed\sqlite-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\f0049cde79262c2f98b7b37c87e44885\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\9fb9920d35dc62f542b779c3673d4e10\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\91d09626a457a2b781365da1c82ad1ba\transformed\gifdecoder-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\navya\.gradle\caches\8.10.2\transforms\a2bedfc829b6e72663f8a7e0e53e19f7\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\843b0858a7d4edd56b29a56962036481\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\a3532923c3806270389f1da3bcd557a2\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\f1cbe3abfbc0fab8ad14940802e00ea5\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\fb1bfeb413592264efd523bb8d0d539a\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\e11ab202531b7f7ec90b9eab58526b56\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\dbaa9930eb7b722fc9b3363e2cd783ec\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\cb754a83f138be9b27beeee67f59bc6e\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.56.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\09c7cfe962898a1e36940a41b57cd839\transformed\dagger-lint-aar-2.56.1\AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:5:5-25:19
+INJECTED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\dac313bea1577f6709dbb127dd1e7a52\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\dac313bea1577f6709dbb127dd1e7a52\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\544a63a21dffab6c55a874c97be2ae60\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\544a63a21dffab6c55a874c97be2ae60\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\f9df0c6284fec7a6eac6e571346cae6d\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\f9df0c6284fec7a6eac6e571346cae6d\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c43ba81d43a68011bf5178b496c0d5f1\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c43ba81d43a68011bf5178b496c0d5f1\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\088de1e343c45541b46e2b73966800b6\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\088de1e343c45541b46e2b73966800b6\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime-android:2.7.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\685bbfb0eaa3b3cd82e54e49e37b2c5c\transformed\room-runtime-release\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime-android:2.7.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\685bbfb0eaa3b3cd82e54e49e37b2c5c\transformed\room-runtime-release\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\c8f1425fad406dbd4779202875b4b94d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\c8f1425fad406dbd4779202875b4b94d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\91d09626a457a2b781365da1c82ad1ba\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\91d09626a457a2b781365da1c82ad1ba\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\843b0858a7d4edd56b29a56962036481\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\843b0858a7d4edd56b29a56962036481\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:14:9-57
+	android:dataExtractionRules
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:8:9-65
+	android:name
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:6:9-30
+activity#com.roomdbwithmigration.ui.MainActivity
+ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:17:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.8.0-alpha09] C:\Users\navya\.gradle\caches\8.10.2\transforms\b9e675583725a11a37dd28ed66faa42c\transformed\viewbinding-8.8.0-alpha09\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.8.0-alpha09] C:\Users\navya\.gradle\caches\8.10.2\transforms\b9e675583725a11a37dd28ed66faa42c\transformed\viewbinding-8.8.0-alpha09\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\dac313bea1577f6709dbb127dd1e7a52\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\dac313bea1577f6709dbb127dd1e7a52\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\544a63a21dffab6c55a874c97be2ae60\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\544a63a21dffab6c55a874c97be2ae60\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\6eb6a49b5062ae8d49d95dea81e6417f\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\6eb6a49b5062ae8d49d95dea81e6417f\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\765cd2e1c1a4f087f45cd633c3bea598\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\765cd2e1c1a4f087f45cd633c3bea598\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.56.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\3750efe794589afe11dd63617d1e3d8d\transformed\hilt-android-2.56.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.56.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\3750efe794589afe11dd63617d1e3d8d\transformed\hilt-android-2.56.1\AndroidManifest.xml:18:3-42
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\f9df0c6284fec7a6eac6e571346cae6d\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\f9df0c6284fec7a6eac6e571346cae6d\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\aa1e0a2e88d9126cae21d07ef87a4240\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\aa1e0a2e88d9126cae21d07ef87a4240\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\navya\.gradle\caches\8.10.2\transforms\bda388fece2a93f1f9f3eac764d6635c\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\navya\.gradle\caches\8.10.2\transforms\bda388fece2a93f1f9f3eac764d6635c\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\cac3c08a993a1a3bf98ec3220fd7cdbf\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\cac3c08a993a1a3bf98ec3220fd7cdbf\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\3809c7cb83006f434f10a1b80bfdf98c\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\3809c7cb83006f434f10a1b80bfdf98c\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c43ba81d43a68011bf5178b496c0d5f1\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c43ba81d43a68011bf5178b496c0d5f1\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\8fd664554a9fd5704c5435e62dce7f5a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\8fd664554a9fd5704c5435e62dce7f5a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\ccdbba5acbb137cfe94ad9ae1751da40\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\ccdbba5acbb137cfe94ad9ae1751da40\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\a9b593db6fb00a4fd876fddeb5abf606\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\a9b593db6fb00a4fd876fddeb5abf606\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\aaf0e48e74c922bd5c222378cd704dfa\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\aaf0e48e74c922bd5c222378cd704dfa\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\d29fb4bd394e8978d52abfacf0d85991\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\d29fb4bd394e8978d52abfacf0d85991\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\805f868f04df977885aa6154a4911d15\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\805f868f04df977885aa6154a4911d15\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\bbb5d5401d265eb449212a40963d0a86\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\bbb5d5401d265eb449212a40963d0a86\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\08973da884136727ef2d666f3b985d87\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\08973da884136727ef2d666f3b985d87\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\d922b27e3c4f32b3b3e19e01e1f332be\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\d922b27e3c4f32b3b3e19e01e1f332be\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\17ffb8945f850d1dc2527fedebc604dd\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\17ffb8945f850d1dc2527fedebc604dd\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\f0c12750c06f4d313ee2e5b2ff7ddb55\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\f0c12750c06f4d313ee2e5b2ff7ddb55\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\97a9c8ec731f310a5bb93a23ada57bbf\transformed\lifecycle-livedata-core-ktx-2.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\97a9c8ec731f310a5bb93a23ada57bbf\transformed\lifecycle-livedata-core-ktx-2.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\2a39cf22c2a30ea04616c55bb8ac8416\transformed\lifecycle-livedata-2.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\2a39cf22c2a30ea04616c55bb8ac8416\transformed\lifecycle-livedata-2.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\ee72196a4927b561e1e1c8eac05ea36f\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\ee72196a4927b561e1e1c8eac05ea36f\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c4e06f0bd3cf612df4453c5f08cef4c0\transformed\savedstate-1.3.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.savedstate:savedstate:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c4e06f0bd3cf612df4453c5f08cef4c0\transformed\savedstate-1.3.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\603f409a17dcd393a97076620eb6e9f7\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\603f409a17dcd393a97076620eb6e9f7\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\54ccc2f7e770902e2cf2f9a4afa29630\transformed\lifecycle-viewmodel-2.9.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\54ccc2f7e770902e2cf2f9a4afa29630\transformed\lifecycle-viewmodel-2.9.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\5f998fb57a79dbdea711fea4370e20c5\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\5f998fb57a79dbdea711fea4370e20c5\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\bc5ae70898dac1ff84ca5c7bbac5c6d3\transformed\lifecycle-livedata-core-2.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\bc5ae70898dac1ff84ca5c7bbac5c6d3\transformed\lifecycle-livedata-core-2.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\088de1e343c45541b46e2b73966800b6\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\088de1e343c45541b46e2b73966800b6\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\605404d9cda8cd31c07a89a30e59dbcc\transformed\lifecycle-viewmodel-ktx-2.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\605404d9cda8cd31c07a89a30e59dbcc\transformed\lifecycle-viewmodel-ktx-2.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\6cb95a1daeed007ad1fd1568e7e5772a\transformed\lifecycle-viewmodel-savedstate-2.9.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\6cb95a1daeed007ad1fd1568e7e5772a\transformed\lifecycle-viewmodel-savedstate-2.9.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\5746f303a7c3e0244572ebb98a399e43\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\5746f303a7c3e0244572ebb98a399e43\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\ba8880a03cdae42d3f1a3e051ebe6194\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\ba8880a03cdae42d3f1a3e051ebe6194\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime-android:2.7.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\685bbfb0eaa3b3cd82e54e49e37b2c5c\transformed\room-runtime-release\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime-android:2.7.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\685bbfb0eaa3b3cd82e54e49e37b2c5c\transformed\room-runtime-release\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.7.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\fd8107fd2ce953671d6940d29ccb23ac\transformed\room-ktx-2.7.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.7.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\fd8107fd2ce953671d6940d29ccb23ac\transformed\room-ktx-2.7.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\280095b19d8456657d6bcd05e224215e\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\280095b19d8456657d6bcd05e224215e\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\1bdefd0598967387184be8eb1a346bb9\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\1bdefd0598967387184be8eb1a346bb9\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\c8f1425fad406dbd4779202875b4b94d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\c8f1425fad406dbd4779202875b4b94d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\915d41028770ae3499c57b2af9255ff5\transformed\sqlite-framework-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\915d41028770ae3499c57b2af9255ff5\transformed\sqlite-framework-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\769986bc06f37720447dedc62d6dc153\transformed\sqlite-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\769986bc06f37720447dedc62d6dc153\transformed\sqlite-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\f0049cde79262c2f98b7b37c87e44885\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\f0049cde79262c2f98b7b37c87e44885\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\9fb9920d35dc62f542b779c3673d4e10\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\9fb9920d35dc62f542b779c3673d4e10\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\91d09626a457a2b781365da1c82ad1ba\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\91d09626a457a2b781365da1c82ad1ba\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\navya\.gradle\caches\8.10.2\transforms\a2bedfc829b6e72663f8a7e0e53e19f7\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\navya\.gradle\caches\8.10.2\transforms\a2bedfc829b6e72663f8a7e0e53e19f7\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\843b0858a7d4edd56b29a56962036481\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\843b0858a7d4edd56b29a56962036481\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\a3532923c3806270389f1da3bcd557a2\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\a3532923c3806270389f1da3bcd557a2\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\f1cbe3abfbc0fab8ad14940802e00ea5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\f1cbe3abfbc0fab8ad14940802e00ea5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\fb1bfeb413592264efd523bb8d0d539a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\fb1bfeb413592264efd523bb8d0d539a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\e11ab202531b7f7ec90b9eab58526b56\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\e11ab202531b7f7ec90b9eab58526b56\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\dbaa9930eb7b722fc9b3363e2cd783ec\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\dbaa9930eb7b722fc9b3363e2cd783ec\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\cb754a83f138be9b27beeee67f59bc6e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\cb754a83f138be9b27beeee67f59bc6e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.56.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\09c7cfe962898a1e36940a41b57cd839\transformed\dagger-lint-aar-2.56.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.56.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\09c7cfe962898a1e36940a41b57cd839\transformed\dagger-lint-aar-2.56.1\AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\navya\AndroidStudioProjects\RoomdbWithMigration\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c43ba81d43a68011bf5178b496c0d5f1\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\088de1e343c45541b46e2b73966800b6\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\088de1e343c45541b46e2b73966800b6\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\843b0858a7d4edd56b29a56962036481\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\843b0858a7d4edd56b29a56962036481\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c43ba81d43a68011bf5178b496c0d5f1\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c43ba81d43a68011bf5178b496c0d5f1\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c43ba81d43a68011bf5178b496c0d5f1\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c43ba81d43a68011bf5178b496c0d5f1\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c43ba81d43a68011bf5178b496c0d5f1\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c43ba81d43a68011bf5178b496c0d5f1\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\c43ba81d43a68011bf5178b496c0d5f1\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+permission#com.roomdbwithmigration.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+uses-permission#com.roomdbwithmigration.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\76c931e4058c3da2c86b1776ff950d38\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\088de1e343c45541b46e2b73966800b6\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\088de1e343c45541b46e2b73966800b6\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\088de1e343c45541b46e2b73966800b6\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime-android:2.7.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\685bbfb0eaa3b3cd82e54e49e37b2c5c\transformed\room-runtime-release\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime-android:2.7.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\685bbfb0eaa3b3cd82e54e49e37b2c5c\transformed\room-runtime-release\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime-android:2.7.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\685bbfb0eaa3b3cd82e54e49e37b2c5c\transformed\room-runtime-release\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime-android:2.7.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\685bbfb0eaa3b3cd82e54e49e37b2c5c\transformed\room-runtime-release\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime-android:2.7.1] C:\Users\navya\.gradle\caches\8.10.2\transforms\685bbfb0eaa3b3cd82e54e49e37b2c5c\transformed\room-runtime-release\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\navya\.gradle\caches\8.10.2\transforms\8704267052c7c051f27a75373aef4760\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
