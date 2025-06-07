@@ -50,7 +50,7 @@ public final class StudentDao_Impl implements StudentDao {
           statement.bindText(2, entity.getName());
         }
         statement.bindLong(3, entity.getAge());
-        statement.bindLong(4, entity.getMarks());
+        statement.bindDouble(4, entity.getMarks());
       }
     };
     this.__deleteAdapterOfStudent = new EntityDeleteOrUpdateAdapter<Student>() {
@@ -108,8 +108,8 @@ public final class StudentDao_Impl implements StudentDao {
           }
           final int _tmpAge;
           _tmpAge = (int) (_stmt.getLong(_columnIndexOfAge));
-          final int _tmpMarks;
-          _tmpMarks = (int) (_stmt.getLong(_columnIndexOfMarks));
+          final double _tmpMarks;
+          _tmpMarks = _stmt.getDouble(_columnIndexOfMarks);
           _item = new Student(_tmpId,_tmpName,_tmpAge,_tmpMarks);
           _result.add(_item);
         }
