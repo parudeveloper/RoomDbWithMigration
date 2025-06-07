@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         binding.btnAdd.setOnClickListener {
-            val student = Student(name = "John", age = 21, marks = 90)
+            val student = Student(name = "John", age = 21, marks = 90.0)
             viewModel.addStudent(student)
             Toast.makeText(this,"Data Added",Toast.LENGTH_SHORT).show()
         }

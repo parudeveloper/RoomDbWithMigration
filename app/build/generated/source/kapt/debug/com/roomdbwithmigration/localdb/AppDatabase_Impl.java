@@ -29,12 +29,12 @@ public final class AppDatabase_Impl extends AppDatabase {
   @Override
   @NonNull
   protected RoomOpenDelegate createOpenDelegate() {
-    final RoomOpenDelegate _openDelegate = new RoomOpenDelegate(1, "506f4921689e2b787fde085068704ab6", "93390c812a501bc09a5092a580274de8") {
+    final RoomOpenDelegate _openDelegate = new RoomOpenDelegate(2, "78786b67e743546bd4970289bddfca6e", "2ded8b60c8c91fd7e7aa1a40b3e77060") {
       @Override
       public void createAllTables(@NonNull final SQLiteConnection connection) {
-        SQLite.execSQL(connection, "CREATE TABLE IF NOT EXISTS `student_table` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `name` TEXT NOT NULL, `age` INTEGER NOT NULL, `marks` INTEGER NOT NULL)");
+        SQLite.execSQL(connection, "CREATE TABLE IF NOT EXISTS `student_table` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `name` TEXT NOT NULL, `age` INTEGER NOT NULL, `marks` REAL NOT NULL)");
         SQLite.execSQL(connection, "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)");
-        SQLite.execSQL(connection, "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '506f4921689e2b787fde085068704ab6')");
+        SQLite.execSQL(connection, "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '78786b67e743546bd4970289bddfca6e')");
       }
 
       @Override
@@ -68,7 +68,7 @@ public final class AppDatabase_Impl extends AppDatabase {
         _columnsStudentTable.put("id", new TableInfo.Column("id", "INTEGER", true, 1, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsStudentTable.put("name", new TableInfo.Column("name", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsStudentTable.put("age", new TableInfo.Column("age", "INTEGER", true, 0, null, TableInfo.CREATED_FROM_ENTITY));
-        _columnsStudentTable.put("marks", new TableInfo.Column("marks", "INTEGER", true, 0, null, TableInfo.CREATED_FROM_ENTITY));
+        _columnsStudentTable.put("marks", new TableInfo.Column("marks", "REAL", true, 0, null, TableInfo.CREATED_FROM_ENTITY));
         final Set<TableInfo.ForeignKey> _foreignKeysStudentTable = new HashSet<TableInfo.ForeignKey>(0);
         final Set<TableInfo.Index> _indicesStudentTable = new HashSet<TableInfo.Index>(0);
         final TableInfo _infoStudentTable = new TableInfo("student_table", _columnsStudentTable, _foreignKeysStudentTable, _indicesStudentTable);
